@@ -1,0 +1,31 @@
+fever,cough,body_pain,headache,fatigue,sore_throat,runny_nose,nausea,stomach_pain,stress,dizziness,chest_pain,shortness_of_breath,diarrhea,rash,disease
+1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Flu
+1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,Flu
+0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,Stress/Tension Headache
+0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,Stress/Tension Headache
+0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Migraine
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Migraine
+1,0,1,1,1,0,0,1,1,0,0,0,0,1,0,Food Poisoning
+0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,Food Poisoning
+1,0,0,0,1,0,0,1,1,0,0,0,0,1,0,Gastroenteritis
+0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,Gastroenteritis
+1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,Common Cold
+0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+1,1,1,1,1,1,0,0,0,0,0,1,1,0,0,COVID-19
+1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,COVID-19
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Chronic Stress/Anxiety
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,Chronic Stress/Anxiety
+0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,Chronic Stress/Anxiety
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Allergic Reaction
+0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,Allergic Reaction
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Angina/Heart Concern
+1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Angina/Heart Concern
+1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Flu
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Flu
+0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Common Cold
+0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Migraine
+0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,Migraine
+1,0,1,0,1,0,0,1,1,0,0,0,0,1,0,Food Poisoning
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,Chronic Stress/Anxiety
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Chronic Stress/Anxiety
